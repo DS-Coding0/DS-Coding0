@@ -16,9 +16,9 @@ A list of your skills. You can include programming languages, tools, and framewo
 
 ## Projects
 
-* [Project 1](https://github.com/DS-Coding0/project-1)
-* [Project 2](https://github.com/DS-Coding0/project-2)
-* [Project 3](https://github.com/DS-Coding0/project-3)
+* [Crypto-Price-Tracker](https://github.com/DS-Coding0/Crypto-Price-Tracker)
+* [Foundry-Fund-me](https://github.com/DS-Coding0/foundry-fund-me)
+* [Python-VENV-Creator](https://github.com/DS-Coding0/Create-VENV)
 
 ## Interests
 
