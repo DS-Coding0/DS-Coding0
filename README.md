@@ -1,6 +1,6 @@
 # DS-Coding
 
-Welcome to my portfolio! I'm DS-Coding, a passionate software engineer and developer specializing in **web development**, **blockchain**, **automation**, and more. With a strong technical foundation and a creative mindset, I craft functional, user-friendly applications using modern technologies.
+Welcome to my portfolio! I'm DS-Coding, a passionate software engineer and developer specializing in **web development**, **blockchain**, **automation** and more. With a strong technical foundation and a creative mindset, I craft functional, user-friendly applications using modern technologies.
 
 Whether it's building websites, developing smart contracts on the Ethereum blockchain, or creating automation scripts with Python and Raspberry Pi, I enjoy solving problems with code and making processes more efficient.
 
