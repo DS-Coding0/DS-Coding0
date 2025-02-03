@@ -47,7 +47,7 @@ Here are some of the most notable projects I’ve worked on:
    - **Description**: Developed a creative intro video with sound and visual effects for the channel.
    - **Challenges**: Ensuring the video fit the client's vision while optimizing for various platforms.
 
-### 3. **[Autoankauf – Template](https://projekte.ds-coding.de/autoankauf) (https://projekte.ds-coding.de/autoankaufv2)**  
+### 3. **[Autoankauf – Template V1](https://projekte.ds-coding.de/autoankauf) - [Autoankauf - Template V2](https://projekte.ds-coding.de/autoankaufv2)**  
    A custom template for a car purchasing website.
    - **Technologies Used**: HTML, CSS, JavaScript
    - **Description**: Built a custom theme for a car buying platform, including product listings and contact forms.
