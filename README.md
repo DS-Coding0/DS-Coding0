@@ -79,6 +79,8 @@ Here are some of the most notable projects I’ve worked on:
 I’m always open to new projects and collaborations. Feel free to reach out to me through the following channels:
 
 - 📧 **Email**: [kontakt@ds-coding.de](mailto:kontakt@ds-coding.de)
+- 📸 **Instagram**: [@dscoding0](https://www.instagram.com/dscoding0/)
+
 ---
 
 ### ⚙️ **Get Started with My Projects**
