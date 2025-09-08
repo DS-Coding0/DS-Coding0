@@ -70,8 +70,8 @@ I’m open to new projects and collaborations! Reach out anytime through the fol
 
 - 📧 **Email:** [kontakt@ds-coding.de](mailto:kontakt@ds-coding.de)  
 - 🌐 **Website:** [https://ds-coding.de](https://ds-coding.de)  
-- 🐦 **Telegram:** [t.me/ds_coding0](https://t.me/ds_coding0)  https://t.me/ds_coding0
-- 💬 **Discord:** [ds.coding](discord://-/users/1154018451405422672)  
+- 🐦 **Telegram:** [t.me/ds_coding0](https://t.me/ds_coding0)
+- 💬 **Discord:** [ds.coding](https://discordapp.com/users/1154018451405422672)  
 - 📸 **Instagram:** [@dscoding0](https://www.instagram.com/dscoding0/)  
 
 ---
